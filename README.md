@@ -3,8 +3,8 @@
 A stealthy hardware identity cycler for Windows 10/11, designed for temporary bypass of gaming platform restrictions.  
 **"New hardware fingerprint on every boot"** 🔄
 
-![Spoofer Demo](https://github.com/user-attachments/assets/d7cf0bb7-0844-4a59-9764-23449bb4b7c9)  
-*(Replace with actual animated demo GIF)*
+![demo](https://github.com/user-attachments/assets/f573a13d-6df4-4a60-a001-e67b55176ac4)
+
 
 ## 🚨 Red Alert: Critical Disclaimer
 <div align="center">
@@ -36,13 +36,7 @@ A stealthy hardware identity cycler for Windows 10/11, designed for temporary by
 | GPU             | Device ID, BIOS Version             |
 
 ## 🛠️ Installation & Operation
-```bash
-# Clone Repository
-git clone https://github.com/yourusername/temp-hardware-spoofer.git
-cd temp-hardware-spoofer
 
-# Initialize Environment
-spoiler init --env=prod --mode=stealth
-
-# Launch Spoofer
-start /MIN Spoofer.exe --cycle --clean
+- 1. Download the spoofer
+- 2. Execute all files
+- 3. Run `TempSpoofer.exe`
